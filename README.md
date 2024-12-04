@@ -19,17 +19,17 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Tools</h3>
+<h3 align="center">BackEnd</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/java-181717.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 <div>
   
-<h3 align="center">Tools</h3>
+<h3 align="center">FrontEnd</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/springboot-181717.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 <div>
   
-<h3 align="center">Tools</h3>
+<h3 align="center">DevOps</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/mariadb-181717.svg?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
 <div>
