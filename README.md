@@ -19,7 +19,7 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/HyeonchanLim/HyeonchanLim/output/github-contribution-grid-snake.svg)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonchanLim&layout=compact)
 
@@ -39,3 +39,5 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 <div align="center">
 <img src="https://img.shields.io/badge/mariadb-181717.svg?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
 <div>
+
+![Snake animation](https://raw.githubusercontent.com/HyeonchanLim/HyeonchanLim/output/github-contribution-grid-snake.svg)
