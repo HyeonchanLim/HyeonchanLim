@@ -13,7 +13,7 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 
 <h3 align="center">Tools</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/github.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 <div>
 
 - 🔭 I’m currently working on ...
