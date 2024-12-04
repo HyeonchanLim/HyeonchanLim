@@ -28,6 +28,11 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 <img src="https://img.shields.io/badge/springboot-181717.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 <div>
   
+<h3 align="center">FrontEnd</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/html-181717.svg?style=for-the-badge&logo=html&logoColor=white" />&nbsp
+<div>
+  
 <h3 align="center">DataBase</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/mariadb-181717.svg?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
