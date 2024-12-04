@@ -19,9 +19,7 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/HyeonchanLim
-/HyeonchanLim
-/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/HyeonchanLim/HyeonchanLim/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonchanLim&layout=compact)
 
