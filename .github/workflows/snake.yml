@@ -21,11 +21,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<HyeonchanLim>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: 이곳에 아이디를 입력 (ex: yspark2)
+          github_user_name: lhc0240 (ex: yspark2)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
