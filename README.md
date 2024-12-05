@@ -16,8 +16,6 @@ badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&l
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonchanLim&layout=compact)
 
-![Programmers Badge](https://raw.githubusercontent.com/HyeonchanLim/Programmers_Badge_Generator/main/result/result.svg)
-
 <h3 align="center">개발 환경</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/intellijidea-181717.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
